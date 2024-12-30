@@ -33,15 +33,7 @@ export default function Hero() {
           </div>
 
           
-          <div className="hidden md:block md:w-1/2">
-            <Image
-              src="/images/hero-right.png"
-              alt="Right Image"
-              width={500} 
-              height={500}
-              className="object-cover rounded-lg"
-            />
-          </div>
+        
         </div>
       </div>
     </div>
